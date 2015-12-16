@@ -5,7 +5,6 @@ using System.Linq;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Description;
-using Newtonsoft.Json.Converters;
 using Swashbuckle.Swagger;
 using Swashbuckle.Swagger.FromUriParams;
 using Swashbuckle.Swagger.Annotations;

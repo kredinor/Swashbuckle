@@ -3,7 +3,6 @@ using System;
 using NUnit.Framework;
 using System.Collections.Generic;
 using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 using System.Linq;
 using Swashbuckle.Application;

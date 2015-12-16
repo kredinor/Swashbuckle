@@ -10,7 +10,7 @@ using System.Threading;
 using System.Web.Http;
 using System.Web.Http.Hosting;
 using System.Web.Http.Routing;
-using Swashbuckle.Dummy.Controllers;
+//using Swashbuckle.Dummy.Controllers;
 using System.Reflection;
 
 namespace Swashbuckle.Tests
